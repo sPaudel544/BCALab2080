@@ -1,1 +1,1 @@
-Answer should be given for each question as GIT command
+Answer should be given for each problem as GIT command
