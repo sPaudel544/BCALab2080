@@ -1,1 +1,1 @@
-Answer should be given for each problem as GIT command
+Provide the GIT command which you used to solve the question.
